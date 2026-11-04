@@ -8,7 +8,7 @@ rn i'm interning at **OffsetX**, working on a carbon credit trading platform (ye
 
 **things i've built**
 
-**[Reactify](LIVE_LINK_HERE)**: drop in a URL or a screenshot, get back React + Tailwind code. runs on Llama 3 (via Groq) and Gemini. had to add a bunch of validation because LLMs love inventing tailwind classes that don't exist.
+**[Job Portal](https://github.com/Yashika02234/Job-portal-)**: a MERN job board with separate employer and candidate sides. JWT login, role-based access, and a MongoDB index fix that made the slow queries a lot faster. first full-stack thing i deployed end to end.
 
 **[SyncUp](LIVE_LINK_HERE)** ([code](GITHUB_LINK_HERE)): finds you teammates for projects and hackathons based on skills, so you stop ending up with the group that ghosts. ML matching with FastAPI on the backend. you can only chat once both people accept, no random DMs.
 
