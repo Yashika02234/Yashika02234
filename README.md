@@ -1,8 +1,7 @@
 ### hey, i'm yashika
+**Frontend flair, backend logic, and a LeetCode habit I can't quit.**
 
-final year IT @ IIIT Vadodara. i build full-stack stuff and occasionally lose sleep over leetcode contests.
 
-rn i'm interning at **OffsetX**, working on a carbon credit trading platform (yes, carbon credits are tradeable, no i didn't know either before this). mostly react + typescript, and we ship every week so things break fast and get fixed faster.
 
 ---
 
