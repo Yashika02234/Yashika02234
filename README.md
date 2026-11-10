@@ -31,7 +31,7 @@ outside code i was secretary of Shades Club and helped run TEDx IIIT Vadodara, s
 
 ---
 
-say hi → [linkedin](https://linkedin.com/in/yashikaagrawal) · [email](mailto:yashikaagrawal3839@gmail.com) · [leetcode](Dear Ms. Bisht,
+say hi → [linkedin](https://www.linkedin.com/in/yashika-agrawal-580a772ab/) · [email](mailto:yashikaagrawal3839@gmail.com) · [leetcode](https://leetcode.com/u/Yashikaa_2004/) · [codeforces](https://codeforces.com/profile/yashikaa_2004)
 
 
 
