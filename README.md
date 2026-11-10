@@ -47,6 +47,6 @@ Sincerely,
 Yashika Agrawal
 +91-7414860322
 yashikaagrawal3839@gmail.com
-[GitHub] (https://github.com/Yashika02234)·[LinkedIn](https://www.linkedin.com/in/yashika-agrawal-580a772ab/) · [codeforces](https://codeforces.com/profile/yashikaa_2004)
+[GitHub](https://github.com/Yashika02234) · [LinkedIn](https://www.linkedin.com/in/yashika-agrawal-580a772ab/) · [codeforces](https://codeforces.com/profile/yashikaa_2004)
 
 open to SDE / full-stack roles for 2027 👀
